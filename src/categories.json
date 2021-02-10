@@ -1,0 +1,38 @@
+[
+    {
+       "id":1,
+       "name":"Babies & Moms",
+       "slug":"babies-and-moms",
+
+       "status":"Jul 21, 2020"
+    },
+    {
+       "id":2,
+       "name":"Clothing & Apparel",
+       "slug":"clothing-and-apparel",
+       
+       "status":"Jul 21, 2020"
+    },
+    {
+       "id":3,
+       "name":"Electronic",
+       "slug":"clothing-and-apparel",
+       
+       "status":"Jul 21, 2020"
+    },
+    {
+       "id":4,
+       "name":"Hone Garden & Kitchen ",
+       "slug":"Home-garden-and-kitchen",
+      
+       "status":"Jul 21, 2020"
+    },
+    {
+       "id":5,
+       "name":"Computer & Technologies",
+       "slug":"computer-and-technologies",
+       
+       "status":"Jul 21, 2020"
+    }
+    
+]
